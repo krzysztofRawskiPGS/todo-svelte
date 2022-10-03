@@ -1,5 +1,5 @@
 <div>
-  <slot />
+  <slot><p>Brak treści do wyświetlenia</p></slot>
 </div>
 
 <style>
